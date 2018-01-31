@@ -3,15 +3,21 @@
  欢迎参观我的GitHub! https://github.com/oboard/
  
 ### 联系方式
- *Email
+
+ Email
  oboard@outlook.com
- *QQ
+ <br>
+ QQ
  2232442466
- *Bilibili
+ <br>
+ Bilibili
  一块小板子
- *Tieba
+ <br>
+ Tieba
  一块小板子
- *Weibo
+ <br>
+ Weibo
  一块小板子
- *Bilibili
+ <br>
+ Bilibili
  一块小板子
